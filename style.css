@@ -1,0 +1,12 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+/*To call the class start with a "."*/
+.center{
+    text-align: center;
+}
+/*To call the ID start with a "#" */
+/* ID should be used only once*/
+#italic{
+    font-family: 'Courgette', cursive;
+}
